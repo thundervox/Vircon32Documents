@@ -4,9 +4,9 @@
 
 Having them in a repository makes it easy to allow reading the documents online as well and download them for future reference. It will also help keep track of when any of they are updated.
 
-Right now the documents cover 2 categories:
+今のところ以下のカテゴリをドキュメントの範囲として扱います（現在、ドキュメントで解説ているものは）。
 
-1. コンソール仕様書
+1. コンソール仕様
 2. クイックガイド
 
 You can read about each of these in their subfolders.
